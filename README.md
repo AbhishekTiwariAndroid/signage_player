@@ -21,7 +21,7 @@ flutter analyze
 flutter build apk --release
 ```
 
-The APK is at `build/app/outputs/flutter-apk/app-release.apk`.
+Apk link download - https://loadly.io/SDegfOkW
 
 First run needs internet to download the 6 media files. After that it works
 offline.
