@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Shown by Android while the process starts, before Flutter draws its first
+     frame. Black so the launch is seamless into the black download splash,
+     with no white flash in between. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@android:color/black" />
+</layer-list>
